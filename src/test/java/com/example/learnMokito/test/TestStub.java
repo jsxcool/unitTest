@@ -13,8 +13,6 @@ import com.example.learnMokito.api.ExternalService;
 import com.example.learnMokito.api.ServiceImp;
 import com.example.learnMokito.stub.ServiceStub;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest
 public class TestStub {
 
 	@Test
